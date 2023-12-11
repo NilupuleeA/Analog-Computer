@@ -2,8 +2,6 @@
 
 This is a group project done under the module EN2091 Laboratory Practice and Projects, Semester 3 of the Department of Electronic and Telecommunication Engineering.
 
-The project description of the project is as follows.
-
 1. Introduction
    
 - This project delves into the practical application of operational amplifier (op-amp) circuits for fundamental analog computations of addition, subtraction and multiplication. Beyond these core functionalities, the project is enriched with several key features aimed at providing a comprehensive and user-friendly experience in analog signal processing.
