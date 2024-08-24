@@ -45,3 +45,13 @@ The adder circuit combines two input signals using operational amplifiers (op-am
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e944806-271d-4481-b9cb-2fa1dc64b246" alt="Adder" width="600"/>
 </p>
+For a summing amplifier with two input signals, the output voltage \( V_{\text{out}} \) is given by:
+
+\[ 
+V_{\text{out}} = - \left( \frac{R_f}{R_1} V_1 + \frac{R_f}{R_2} V_2 \right) 
+\]
+
+where:
+- \( V_1 \) and \( V_2 \) are the input voltages.
+- \( R_f \) is the feedback resistor.
+- \( R_1 \) and \( R_2 \) are the resistors connected to the input voltages.
