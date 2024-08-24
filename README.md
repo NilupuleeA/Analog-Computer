@@ -20,6 +20,15 @@ This is a group project done under the module EN2091 Laboratory Practice and Pro
   
 - Stable Power Supply System: A reliable and clean power supply system is designed to ensure consistent operation of op-amp circuits, incorporating appropriate filtering and regulation techniques.
 
+What you can find here:
+
+- Circuit Design
+- Simulation Files
+- Schematic Diagrams
+- PCB Designs
+- Enclosure Designs
+  
+# Circuit Design
 
 
 ![Analog_Computer](https://github.com/NilupuleeA/Analog-Computer/assets/153465850/b66c465d-21d6-482b-95f7-0a090533c900)
