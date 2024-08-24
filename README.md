@@ -32,3 +32,4 @@ What you can find here:
 
 
 ![Analog_Computer](https://github.com/NilupuleeA/Analog-Computer/assets/153465850/b66c465d-21d6-482b-95f7-0a090533c900)
+![Adder](https://github.com/user-attachments/assets/9e944806-271d-4481-b9cb-2fa1dc64b246)
