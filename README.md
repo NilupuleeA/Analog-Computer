@@ -39,4 +39,9 @@ The schematic mainly consists of four main parts:
 - **Multiplier Circuit**
 - **Gain and DC Shift Adjustment**
 
-![Adder](https://github.com/user-attachments/assets/9e944806-271d-4481-b9cb-2fa1dc64b246)
+### Adder Circuit
+
+The adder circuit combines two input signals using operational amplifiers (op-amps). It features a summing amplifier to add the signals and an inverting amplifier to adjust the output’s polarity and gain. The summing amplifier produces a weighted sum of the inputs, while the inverting amplifier refines the signal, allowing for precise control over the final output.
+
+<img src="https://github.com/user-attachments/assets/9e944806-271d-4481-b9cb-2fa1dc64b246" alt="Adder" width="400"/>
+
