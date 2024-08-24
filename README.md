@@ -24,7 +24,6 @@ This is a group project done under the module EN2091 Laboratory Practice and Pro
 
 What you can find here:
 
-- Circuit Design
 - Simulation Files
 - Schematic Diagrams
 - PCB Designs
@@ -43,5 +42,6 @@ The schematic mainly consists of four main parts:
 
 The adder circuit combines two input signals using operational amplifiers (op-amps). It features a summing amplifier to add the signals and an inverting amplifier to adjust the output’s polarity and gain. The summing amplifier produces a weighted sum of the inputs, while the inverting amplifier refines the signal, allowing for precise control over the final output.
 
-<img src="https://github.com/user-attachments/assets/9e944806-271d-4481-b9cb-2fa1dc64b246" alt="Adder" width="400"/>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e944806-271d-4481-b9cb-2fa1dc64b246" alt="Adder" width="600"/>
+</p>
