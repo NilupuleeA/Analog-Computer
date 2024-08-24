@@ -45,6 +45,7 @@ The adder circuit combines two input signals using operational amplifiers (op-am
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e944806-271d-4481-b9cb-2fa1dc64b246" alt="Adder" width="600"/>
 </p>
+
 For a summing amplifier with two input signals, the output voltage \( V_{\text{out}} \) is given by:
 
 \[ 
