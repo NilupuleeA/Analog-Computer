@@ -71,3 +71,9 @@ To overcome this, we implemented an alternative circuit design using two summing
   <img src="https://github.com/user-attachments/assets/24d5f9cd-76cf-4813-b381-2cc11cbb1ed1" alt="Adder" width="600"/>
 </p>
 
+### Gain and DC Shift Adjustment
+![DC](https://github.com/user-attachments/assets/4e128993-1ed5-4153-86eb-dc8d122371be)
+![Gain](https://github.com/user-attachments/assets/e246b901-ba9e-4014-b847-f5cd2cc5259f)
+
+### Power Supply
+
