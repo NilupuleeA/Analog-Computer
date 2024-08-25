@@ -37,6 +37,13 @@ The schematic mainly consists of four main parts:
 - **Subtractor Circuit**
 - **Multiplier Circuit**
 - **Gain and DC Shift Adjustment**
+- **Power Supply**
+
+We selected the TL072 op-amp for the implementation of the above circuits due to its key characteristics that align well with our requirements. Below are the key reasons for this choice:
+
+- *High Slew Rate:* The TL072 features a high slew rate of approximately 13 V/µs, allowing it to handle fast signal transitions accurately without distortion, which is crucial for our circuit implementations.
+- *Low Noise:* It has low total harmonic distortion (THD) and minimal noise, helping to maintain signal integrity and ensure clean output in our designs.
+- *Low Offset Voltage:* The op-amp offers a low input offset voltage, reducing errors and enhancing precision in signal amplification, which is essential for accurate circuit performance.
 
 ### Adder Circuit
 
