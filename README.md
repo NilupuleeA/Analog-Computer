@@ -72,8 +72,12 @@ To overcome this, we implemented an alternative circuit design using two summing
 </p>
 
 ### Gain and DC Shift Adjustment
-![DC](https://github.com/user-attachments/assets/4e128993-1ed5-4153-86eb-dc8d122371be)
-![Gain](https://github.com/user-attachments/assets/e246b901-ba9e-4014-b847-f5cd2cc5259f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e128993-1ed5-4153-86eb-dc8d122371be" alt="DC" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e246b901-ba9e-4014-b847-f5cd2cc5259f" alt="Gain" width="45%" />
+</p>
+
 
 ### Power Supply
 
+![Power](https://github.com/user-attachments/assets/58f3a752-d28f-4143-83af-10abea5d1ecb)
