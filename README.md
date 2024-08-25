@@ -56,4 +56,12 @@ The subtractor circuit is designed by first inverting one of the input signals u
 
 ### Multiplier Circuit
 
+### Multiplier Circuit
+
+Initially, we tested a logarithmic method for creating a multiplier circuit. Although the theoretical concept behind this approach was sound, it did not provide the expected practical results.
+
+To overcome this, we implemented an alternative circuit design using two summing amplifiers. In this configuration, the first summing amplifier adds the two input signals \(V_x\) and \(V_y\) and provides an inverted sum. The output from this amplifier is then fed into a second summing amplifier along with twice one of the input signals, resulting in the difference between the input signals. After obtaining both the sum and the difference of the signals, we separately multiply these outputs. Finally, a differential amplifier calculates the difference between the squared outputs, resulting in the expression \((V_x + V_y)^2 - (V_x - V_y)^2 = 4V_xV_y\), which provides the desired multiplication of the input signals.
+
+![Multiplier](https://github.com/user-attachments/assets/24d5f9cd-76cf-4813-b381-2cc11cbb1ed1)
+
 
